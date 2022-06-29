@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Category"
-    url:
-
-
+    url: /categories/
+  - title : "Tag"
+    url : /tags/
 
 doc:
   - title : '대분류'
