@@ -1,8 +1,8 @@
 ---
 layout: single
 comments : true
-date : 2022-06-29
-title:  "첫 포스팅 입니다."
+date : 2022-06-27
+title:  "first posting"
 description : "상세설명"
 subject : "블로그"
 categories: Project
@@ -14,7 +14,11 @@ sidebar :
 ---
 
 # 오늘 처음 블로그를 만들었어요.
-앞으로 열심히 해보겠습니다.
+
+<h1 style= color:blue;>Sample Code</h1>
+
+
+
 
 ``` python
 
@@ -30,6 +34,3 @@ except:
 
 
 
-# 변경사항 반영 바로 해주는지 확인
-
-ㅇ
