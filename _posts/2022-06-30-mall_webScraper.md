@@ -5,8 +5,6 @@ categories: Study
 tag: [Web Scraping, Requests]
 toc : true
 author_profile : false
-sidebar:
-    nav: "docs" 
 ---
 
 

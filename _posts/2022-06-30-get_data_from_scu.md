@@ -5,8 +5,6 @@ categories: Project
 tag: [Web Scraping, Selenium]
 toc : true
 author_profile : false
-sidebar:
-    nav: "docs" 
 ---
 
 # Import
