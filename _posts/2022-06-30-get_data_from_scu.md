@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "get_data_from_scu"
+# title:  "get_data_from_scu"
 categories: Project
 tag: [Web Scraping, Selenium]
 toc : true

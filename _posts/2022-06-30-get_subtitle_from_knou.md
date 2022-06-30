@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "get_data_from_knou"
+# title:  "get_subtitle_from_knou"
 categories: Project
 tag: [Web Scraping, Selenium]
 toc : true

@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "mall_webScraper"
-categories: Study
+# title:  "mall_webScraper"
+categories: Project
 tag: [Web Scraping, Requests]
 toc : true
 author_profile : false

@@ -2,7 +2,7 @@
 layout: single
 comments : true
 date : 2022-06-27
-title:  "first posting"
+# title:  "first posting"
 description : "상세설명"
 subject : "블로그"
 categories: Project
