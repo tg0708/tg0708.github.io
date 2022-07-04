@@ -11,6 +11,7 @@ toc : true
 author_profile : false
 sidebar :
     nav : "docs" 
+
 ---
 
 # 오늘 처음 블로그를 만들었어요.
@@ -31,6 +32,16 @@ except:
     print("Please enter a valid index.")
 
 ```
+
+안녕하세요. 오늘은 첫 일기장을 써보네요
+
+
+
+![image-20220704100224829](../images/2022-06-27-first_posting/image-20220704100224829.png)
+
+
+
+![image-20220704100242384](../images/2022-06-27-first_posting/image-20220704100242384.png)
 
 
 
